@@ -7,3 +7,7 @@ The steps taken to predict are as follows,
 *  Preprocessing Data for a Neural Network Model
 *  Compile, Train, and Evaluate the Model
 *  Optimize the Model
+
+#Results:
+* Data Preprocessing
+  * 
