@@ -18,4 +18,4 @@ Data Preprocessing
     EIN and NAME. This column does not impact the results. 
 
 
-# **Compiling, Training, and Evaluating the Model**
+**Compiling, Training, and Evaluating the Model**
