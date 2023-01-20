@@ -10,9 +10,9 @@ The steps taken to predict are as follows,
 
 #Results:
 Data Preprocessing
-* What variable(s) are considered the target(s) for your model?
-- IS_SUCCESSFUL
+* What variable(s) are considered the target(s) for your model? 
+    IS_SUCCESSFUL
 * What variable(s) are considered to be the features for your model?
-- All columns 
+    All columns 
 * What variable(s) are neither targets nor features, and should be removed from the input data?
-- EIN and NAME. This column does not impact the results. 
+    EIN and NAME. This column does not impact the results. 
