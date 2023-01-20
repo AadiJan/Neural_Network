@@ -16,3 +16,6 @@ Data Preprocessing
     All columns 
 * What variable(s) are neither targets nor features, and should be removed from the input data?
     EIN and NAME. This column does not impact the results. 
+
+
+# **Compiling, Training, and Evaluating the Model**
