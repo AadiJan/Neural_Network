@@ -8,8 +8,8 @@ The steps taken to predict are as follows,
 *  Compile, Train, and Evaluate the Model
 *  Optimize the Model
 
-# **Results:**
-# Data Preprocessing
+## **Results:**
+*Data Preprocessing
 * What variable(s) are considered the target(s) for your model? 
     IS_SUCCESSFUL
 * What variable(s) are considered to be the features for your model?
@@ -18,4 +18,6 @@ The steps taken to predict are as follows,
     EIN and NAME. This column does not impact the results. 
 
 
-# Compiling, Training, and Evaluating the Model
+*Compiling, Training, and Evaluating the Model
+* How many neurons, layers, and activation functions did you select for your neural network model, and why?
+    
