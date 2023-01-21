@@ -21,3 +21,4 @@ The steps taken to predict are as follows,
 *Compiling, Training, and Evaluating the Model*
 * How many neurons, layers, and activation functions did you select for your neural network model, and why?
    The model comprises two hidden layers and an input feature. The first hidden layer and 80 neurons and second has 50 neurons, with an activation function. Bothe the layers have "relu" as activation function and "sigmoid" as the output layer. 
+![output] https://github.com/AadiJan/Neural_Network/blob/5fa9a677b57c548f2ffdaf7ee6555d3370c44ce1/Activation_fun_output.PNG 
